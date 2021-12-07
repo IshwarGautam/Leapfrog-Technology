@@ -3,5 +3,5 @@
 <h2>Repository owner:</h2>
 Name: Ishwar Gautam<br>
 From: Butwal<br>
-Youtube Channel: <a href="https://www.youtube.com/channel/UC4Wf9XNPsbXwQqfKlUZfmtw?sub_confirmation=1">IG Tech Team</a><br>
-Blog: https://ishwargautam.blogspot.com
+<a href="https://www.youtube.com/channel/UC4Wf9XNPsbXwQqfKlUZfmtw?sub_confirmation=1">YouTube</a></t>
+<a href="https://ishwargautam.blogspot.com">Blog</a>
